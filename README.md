@@ -35,7 +35,8 @@ pip install -r requirements.txt
 ### 🎯 Confusion Matrix
 The confusion matrix shows how well the model distinguishes between **Low Risk** and **High Risk** patients.
 
-![Confusion Matrix](./path/to/confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/f52b31d6-77b9-4a4c-bd98-0e036adf008d)
+
 
 - **81** True Negatives (Low Risk correctly predicted)
 - **48** True Positives (High Risk correctly predicted)
@@ -52,7 +53,8 @@ The confusion matrix shows how well the model distinguishes between **Low Risk**
 ### 📈 ROC Curve
 The ROC curve illustrates the model's ability to distinguish between the two classes.
 
-![ROC Curve](./path/to/roc_curve.png)
+![image](https://github.com/user-attachments/assets/44dcd685-906c-4f95-88ba-002d464f7084)
+
 
 - **AUC Score:** 0.85 — A high AUC indicates the model performs well in classification.
 
@@ -61,7 +63,8 @@ The ROC curve illustrates the model's ability to distinguish between the two cla
 ### 🔍 SHAP Feature Importance
 SHAP values explain how each feature contributes to predictions.
 
-![SHAP Values](./path/to/shap_values.png)
+![image](https://github.com/user-attachments/assets/1e5ce7fb-3ca8-4bf4-a235-b330bbff5f95)
+
 
 Key insights:
 - **Glucose** is the most significant feature — higher glucose levels push predictions toward "High Risk."
